@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/23553974/README.md)
-# 📊 HR Analytics Dashboard - Análisis de Rotación de Personal
+# HR Analytics Dashboard - Análisis de Rotación de Personal
 
-## 📌 Descripción General
+# Descripción General
 
 Dashboard interactivo para análisis de rotación de personal (attrición) basado en datos de empleados. 
 Proporciona insights accionables para equipos de Recursos Humanos con visualizaciones interactivas, 
@@ -12,7 +12,7 @@ métricas clave y análisis exploratorio de datos.
 
 ---
 
-## 📂 Estructura del Proyecto
+# Estructura del Proyecto
 
 
 hr-analytics-dashboard/
@@ -43,7 +43,7 @@ hr-analytics-dashboard/
 
 ---
 
-## 📊 Fuente de Datos
+## Fuente de Datos
 
 **Dataset**: WA_Fn-UseC_-HR-Employee-Attrition  
 **Origen**: IBM HR Analytics Dataset  
@@ -70,11 +70,11 @@ hr-analytics-dashboard/
 
 ## 🧹 Limpieza de Datos
 
-### Proceso de Validación
+## Proceso de Validación
 
-✅ **Valores Faltantes**: 0 (sin valores nulos)  
-✅ **Duplicados**: 0 filas duplicadas  
-✅ **Tipos de Datos**: Verificados y correctos  
+ **Valores Faltantes**: 0 (sin valores nulos)  
+ **Duplicados**: 0 filas duplicadas  
+ **Tipos de Datos**: Verificados y correctos  
 - 26 variables numéricas
 - 9 variables categóricas
 
@@ -88,7 +88,7 @@ hr-analytics-dashboard/
 
 ---
 
-## 📈 Análisis Exploratorio (EDA)
+##  Análisis Exploratorio (EDA)
 
 ### Métricas Clave Globales
 
@@ -135,7 +135,7 @@ No hay variabilidad en este indicador.
 
 ---
 
-## 🎯 Insights Accionables
+##  Insights Accionables
 
 ### **Insight #1: Crisis en Ventas - Necesidad de Intervención Inmediata**
 
@@ -268,7 +268,7 @@ El dashboard abrirá en tu navegador por defecto en `http://localhost:8501`
 
 ---
 
-## 📊 Visualizaciones Disponibles
+##  Visualizaciones Disponibles
 
 ### 1. **Rotación por Departamento** (Gráfico de Barras)
 - Archivo: `01_attrition_by_department.html`
@@ -363,7 +363,7 @@ bash
 
 ---
 
-## 📋 Checklist de Implementación para RRHH
+##  Checklist de Implementación para RRHH
 
 - [ ] Revisión de compensación para Sales (Insight #1)
 - [ ] Diseño de programa de stay bonus
@@ -389,7 +389,7 @@ Para contribuir:
 
 ---
 
-## 📞 Contacto y Soporte
+##  Contacto y Soporte
 
 **Preguntas sobre análisis**: [Email de equipo de analytics]  
 **Soporte técnico dashboard**: [Email soporte]  
@@ -397,13 +397,13 @@ Para contribuir:
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está bajo licencia MIT. Ver archivo LICENSE para detalles.
 
 ---
 
-## 📖 Referencias
+##  Referencias
 
 - IBM HR Analytics Dataset: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Streamlit Docs: https://docs.streamlit.io
